@@ -10,7 +10,7 @@
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/D4D03AQFs79wuaL-Slw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729953140062?e=1736380800&v=beta&t=eau0A4M4mlrPezr5GzWPeomRpizoIyZogVMHnqo07cM" alt="Letago Makhubele" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="" alt="Letago Makhubele" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills:</h3>
